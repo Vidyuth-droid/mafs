@@ -17,8 +17,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
-{
+#No_1 , #No_2 {
 	width: 60%;
 }
 #word_display
